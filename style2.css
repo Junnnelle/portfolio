@@ -1,0 +1,18 @@
+h1{
+    color: darkslategray;
+    text-align: center;
+}
+h2{
+    color: darkslateblue;
+}
+p{
+    color: dimgray;
+}
+
+div {
+    width: 300px;
+    border: 15px solid lavender;
+    padding: 50px;
+    margin: 20px;
+    background-color: lavenderblush;
+  }

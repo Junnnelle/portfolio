@@ -1,0 +1,34 @@
+h1{
+   color: rgb(200,120,0);
+}
+h3{
+    text-decoration: underline;
+    font-size:30px;
+    font-style: italics;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    border: 4px solid sandybrown;
+    border-radius: 5px;
+    width: 80%;
+    }
+
+.section-hearder {
+        text-align: center;
+        background-color: azure;
+        border: 4px solid rgb(200,120,0)
+        border-radius: 5px;
+        margin-top: 0;
+        margin-bottom: 0;;
+        width: 80%;
+    }
+#profile-picture {
+    border: 2px solid grey;
+}
+
+.section {
+    background-color: skyblue;
+    border: 2px solid silver;
+    color: azure; 
+    margin: 0 50px 10px 50px;
+    padding: 10px;
+}
